@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+	<title></title>
+</head>
+<body>
+	<main>
+		<header>
+            <div class = 'center'>
+            <div class = 'logo'><img src="apinfo.jpg"></div>
+            <div class = 'menu'>
+                <b href="#">Para você</b>
+                <b href="#">Para Empresa</b>
+            </div><!--menu-->
+            </div><!--center-->
+		</header>
+	   
+			<aside>
+                <c href="">Cadastre-se</c>
+                <c href="">Entrar</c>
+			</aside>
+			<section class = "sobre">
+                <div class = 'extras'>></div>
+               </figure>
+			</section>
+		</div>	
+		<footer class="flex">
+			<figure class="rodape-logo">
+				<img src="clr_logo.gif">
+			</figure>
+			<div class="rodape-conteudo">
+				<ul class="flex">
+					<li><a href="">Home</a></li>
+					<li><a href="">The Band</a></li>
+					<li><a href="">News</a></li>
+					<li><a href="">Tour</a></li>
+					<li><a href="">Music</a></li>
+					<li><a href="">Video</a></li>
+					<li><a href="">Forum</a></li>
+				</ul>
+				<p>
+					Copyright 2006 Colly Logic Records
+					Current visitors 278 | Highest: 1457 on 22/06/06
+				</p>
+			</div>
+		</footer>	
+	</main>
+</body>
+</html>
